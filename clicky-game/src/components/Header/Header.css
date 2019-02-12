@@ -1,0 +1,25 @@
+.header{
+	background-color: #665c84;
+	position: relative;
+	width: 100%;
+}
+
+h1{
+	text-align: center;
+	font-size: 110px;
+	padding: 50px 0 20px 0; 
+	font-family: 'Passion One', cursive;
+	letter-spacing: 4px;
+	text-shadow: 3px 2px #ffba5a;
+	color: #ff7657;
+}
+
+h4{
+	text-align: center;
+	font-size: 28px;
+	padding-bottom: 50px;
+	color: antiquewhite;
+	font-family: 'Pompiere', cursive;
+	font-weight: 600;
+
+}

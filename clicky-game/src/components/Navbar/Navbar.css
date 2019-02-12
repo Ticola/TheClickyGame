@@ -1,0 +1,22 @@
+.navbar li {
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .itemLeft {
+    width: 15%;
+  }
+  
+  .navbar {
+    background: #ffba5a;
+    box-shadow: 0 10px 8px rgb(31, 25, 25), 0 10px 10px rgb(250, 4, 4);
+  }
+  
+  li {
+    color: rgb(0, 0, 0);
+    padding: 15px 0;
+    font-size: 32px;
+    font-family: 'Russo One', sans-serif;
+
+  }
+  

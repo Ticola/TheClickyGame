@@ -1,0 +1,9 @@
+.wrapper {
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 25px 0 50px;
+  justify-content: center;
+  align-content: flex-start;
+  background: linear-gradient(to bottom, #f3c5bd 0%,#ea2803 0%,#ea2803 0%,#ea2803 1%,#ff6600 33%,#ff6600 33%,#ff6600 57%,#ff6600 63%,#ff6600 63%,#ff6600 76%,#ff6600 91%,#e86c57 100%,#c72200 100%);
+}
